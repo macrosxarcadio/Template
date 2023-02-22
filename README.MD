@@ -1,7 +1,9 @@
-# test
-
+# Template
 
 This project was generated with [superplate](https://github.com/pankod/superplate).
+This project have integrated husky eslint prettier and lintstaged.
+
+I use these project for fast release of web apps
 
 ## Getting Started
 
@@ -57,14 +59,14 @@ Redux helps you write applications that behave consistently, run in different en
 
 
 
-[Go To Documentation]()
+[Go To Documentation](https://eslint.org/)
 
 
 ### **jest**
 
 
 
-[Go To Documentation]()
+[Go To Documentation](https://jestjs.io/)
 
 
 
